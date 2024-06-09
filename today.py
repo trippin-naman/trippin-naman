@@ -7,7 +7,7 @@ import time
 import hashlib
 
 # Personal access token with permissions: read:enterprise, read:org, read:repo_hook, read:user, repo
-HEADERS = {'authorization': 'token '+ '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'}
+HEADERS = {'authorization': 'token '+ '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'}
 USER_NAME = 'trippin-naman'
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
 
